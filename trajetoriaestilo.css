@@ -1,4 +1,8 @@
+html{
+        font-size: 62.5%;
+}
 body{
+        font-size: 1.6rem;
         background-image: url(https://wallpaperforu.com/wp-content/uploads/2020/08/minimal-wallpaper-20081414161612-scaled.jpg);
         color:whitesmoke;
         background-size: 100% 100%;
@@ -61,11 +65,11 @@ body{
 }
 .texto {
     white-space:nowrap;
-    color: white;
-    font-size: 70px;
+    color:black;
+    font-size: 62.5%;
     position: absolute;
     overflow: hidden;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%,-50%);
